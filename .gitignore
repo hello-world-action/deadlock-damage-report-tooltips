@@ -1,0 +1,17 @@
+# Third-party tools (large; download separately - see README)
+/csdk/
+/Reduced_CSDK_13.7z
+/tools/s2v/
+
+# Files extracted or derived from the game (Valve's content; regenerate locally)
+/vanilla/
+/vanilla_src/
+/tools/client_strings.txt
+
+# Other people's repositories used for reference
+/reference/
+
+# Build and release output
+/build/
+/release/*.zip
+/release/stage_*/
